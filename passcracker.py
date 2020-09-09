@@ -1,3 +1,14 @@
+print ("HH            HH             AAAAA           cccccccccc    KK   / /  ")
+print ("HH            HH            AA   AA          cccccccccc    KK  / /   ")
+print ("HH            HH           AA     AA         cc            KK / /    ")
+print ("HH            HH          AAAAAAAAAAA        cc            KK/ /     ")
+print ("HHHHHHHHHHHHHHHH         AA         AA       cc            KK /      ")
+print ("HH            HH        AA           AA      cc            KK\ \     ")
+print ("HH            HH       AA             AA     cc            KK \ \    ")
+print ("HH            HH      AA               AA    cc            KK  \ \   ")
+print ("HH            HH     AA                 AA   cccccccccc    KK   \ \  ")
+print ("HH            HH    AA                   AA  cccccccccc    KK    \ \ ")
+print ("                                                    BY CHIN YI ZHE IDK")
 # importing random
 from random import *
 
