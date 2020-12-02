@@ -7,14 +7,16 @@
 
 [+] How To Use Passcracker.py: [+]
 
-[+] 1.git clone https://github.com/iamhellaweiri/gmail [+]
-[+] 2.cd gmail [+]
-[+] 3.ls [+]
-[+] 4.python2 passcracker.py [+]
+[+] 1.cd gmail [+]
+
+[+] 2.ls [+]
+
+[+] 3.python2 passcracker.py [+]
 
 [+] How To Use Passcracker2.py [+]
 
-[+] 1.git clone https://github.com/iamhellaweiri/gmail [+]
-[+] 2.cd gmail [+]
-[+] 3.ls [+]
-[+] 4.python3 passcracker2.py [+]
+[+] 1.cd gmail [+]
+
+[+] 2.ls [+]
+
+[+] 3.python3 passcracker2.py [+]
